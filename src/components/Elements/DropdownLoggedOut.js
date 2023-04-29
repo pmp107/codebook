@@ -1,5 +1,5 @@
 /**
-* Objective: Page to display when user is mot loggedIn.
+* Objective: Page to display when user is not loggedIn.
 * Date Created:
 * Modified:
 */
